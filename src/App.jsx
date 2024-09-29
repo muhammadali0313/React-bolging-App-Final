@@ -7,7 +7,7 @@ import {
   import Home from "./pages/home/Home";
   import Blog from "./pages/blog/Blog";
   import AllBlogs from "./pages/allBlogs/AllBlogs";
-  import NoPage from "./pages/nopage/NoPage";
+  import NoPage from "./pages/nopage/Nopage";
   import BlogInfo from "./pages/blogInfo/BlogInfo";
   import AdminLogin from "./pages/admin/adminLogin/AdminLogin";
   import Dashboard from "./pages/dashboard/Dashboard";
